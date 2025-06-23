@@ -11,9 +11,9 @@
     "url": "https://github.com/mikehn/react-slider-puzzle.git"
   },
   "dependencies": {
-    "react": "^16.6.3",
-    "react-dom": "^16.6.3",
-    "react-scripts": "2.1.1"
+    "react": "^19",
+    "react-dom": "^19",
+    "react-scripts": "^5"
   },
   "scripts": {
     "start": "react-scripts start",
